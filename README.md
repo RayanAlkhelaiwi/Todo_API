@@ -13,6 +13,11 @@ A RESTful API that implements public todos on the fly.
 
 From the `/` base folder run `bundle install` to install all the gems (a.k.a packages), then run `rails server` or simply `rails s`. All required packages are included in the Gemifle.
 
+```shell
+bundle install
+rails server # Or just 'rails s'
+```
+
 **Frontend** (Not Applicable)
 
 If applicable; inside the `/frontend` folder, run the following commands to start the client:
